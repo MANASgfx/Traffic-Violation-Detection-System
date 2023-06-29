@@ -1,14 +1,7 @@
 # Traffic Signal Violation Detection System using Computer Vision
 
-> <a href="[[https://drive.google.com/open?id=1H5RjHPJ0CK5yq2_3vwwo4CwZt1NXTeVB](https://drive.google.com/file/d/1N9T0NIDDdMUPJGsR5PVHgLKBQBwOVM_L/view?usp=drive_link)](https://drive.google.com/file/d/1N9T0NIDDdMUPJGsR5PVHgLKBQBwOVM_L/view?usp=sharing)"><h3>Project Report</h3></a>
-
-> <a href="[https://drive.google.com/open?id=1l46H2pNTbLLcIFSHWsMtor-vlvNSA4Gu](https://docs.google.com/presentation/d/1P-ROZ81bzcxNARik2BncNkuTstQusOa-/edit?usp=drive_link&ouid=105425857657749343807&rtpof=true&sd=true)"><h3>Project Slide</h3></a>
-
-
-![Violation_Detection_Frame](Images/Violation_Detection_Frame_Red.jpg)
-
 ## INTRO
-<img src="Images/Workflow Diagram.jpg" alt="Workflow Diagram" align="right" width="250" />
+<img src="Violation_Detection_Frame.jpg" alt="Workflow Diagram" align="right" width="250" />
 This is a software for practice of developing a system from completely scratch. Understanding this will help a lot in system development and basic structure of a system along with computer vision, GUI with python library Tkinter and basic opencv.
 
 Go [here](#quick-starting-the-project) if you don't have time.
